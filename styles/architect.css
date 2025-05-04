@@ -8,6 +8,9 @@
   }
 
 /* shared styles */
+*{
+  padding-bottom: 20px;
+}
 
 .display-flex{
   display: flex;
